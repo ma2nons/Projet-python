@@ -22,7 +22,7 @@ L'échelle académique ou régionale aurait fait disparaitre trop de spécificit
 
 A contrario, une échelle plus restreinte telle que le bassin de vie ou la commune était compliquée à mettre en place, notamment du fait d'un complexe croisement des bases de données : il est notamment complexe d'établir une correspondance des lycées à des bassin de vie ou des communes. En effet, étant donné qu'un lycée situé dans une ville possède un secteur bien plus large que cette ville et que nous ne disposions pas de données précises sur les cartes scolaires (qui par ailleurs, connaissent de nombreuses dérrogations, du fait de choix d'options, d'internat...), nous ne pouvions pas mettre chaque lycée en parallèle du niveau d'emploi de son bassin ou de ses communes. Nous ne pouvions ainsi, par exemple, pas comparer des espaces ruraux et urbains.
 
-Nous mesurons l'emploi de plusieurs manières : nous nous sommes penchés sur le taux de chômage, sur le nombre de bénéficiaires du RSA, mais également sur la composition de l'emploi d'un département.
+Nous mesurons l'emploi de plusieurs manières : nous nous sommes penchés sur le taux de chômage, sur le nombre de bénéficiaires du RSA, sur le revenu médian, mais également sur la composition de l'emploi d'un département.
 Nous ne disposons malheureusement pas de données liant à l'échelle individuelle le parcours de vie professionnel de parents et les résultats scolaires des enfants. Nous comparons donc l'emploi moyen d'un département et les résultats moyens des lycéens de ce même département.
 
 Données
@@ -31,6 +31,8 @@ Nous exploitons des données de trois types :
 résultats au baccalauréat général au niveau départemental (par lycée - entre 2012 et 2023) ;
 répartition des allocataires du RSA par département (2023);
 principaux indicateurs de population active et chômage;
+résultats et choix d'orientations à la fin de parcoursup (2023);
+indicateurs de revenus par département;
 
 COMPLETER
 
@@ -39,6 +41,8 @@ Ces données sont obtenues par plusieurs sources différentes, respectivement :
 les données publiques du Ministère de l'éducation nationale,
 les données publiques de Insee;
 les données publiques de la Caisse Nationale des Allocations Familiales;
+les données publiques parcoursup 2023;
+les données publiques Filosfi 2023 de l'INSEE;
 
 COMPLETER
 
@@ -49,6 +53,7 @@ Installation. Cloner le projet.
 git clone https://github.com/username/Projet-python.git
 cd Projet-python
 
+Lire "Téléchargement_données_info" pour plus de précisions sur la manière de télécharger les données si vous souhaitez faire tourner le code. 
 
 Installer les dépendances Python à l’aide de la commande :
 
