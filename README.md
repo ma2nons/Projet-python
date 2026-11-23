@@ -14,6 +14,19 @@ Problématique : L'emploi des actifs influe-t-il sur les résultats scolaires de
 Ici, nous mesurons les résultats scolaires comme les résultats au baccalauréat général et technologique par lycée. Nous sommes pleinement conscients que ces informations ne reflètent que partiellement le niveau scolaire des élèves, notamment car tout le monde ne passe pas un baccalauréat général ou technologique : une partie des étudiants arrête les études avant cela, et une autre partie s'oriente vers des filières plus techniques : certificat d'aptitude professionnelle (CAP) ou baccalauréat professionnel. 
 Néanmoins, une proportion non négligeable des français passe un baccalauréat technologique ou général, et nous avons été également contraints par la disponibilité des données : nous avons pu trouver des données précises de grande qualité surtout sur cet examen. 
 
+OU INTRO 2 (PROPOSITION)
+
+Sujet: Influence de l’emploi sur les résultats au baccalauréat à l’échelle départementale
+
+Depuis les années 1950 et plus particulièrement depuis les années 1960-1970 avec la sociologie bourdieusienne (Les Héritiers (1964), La Reproduction (1970)), la massification scolaire a posé des questions d’égalité des chances et de démocratisation. Cette démocratisation fut impressionnante, et s’observe notamment à travers les chiffres du baccalauréat: comme le mentionne Marie Duru-Bellat dans son ouvrage L’inflation scolaire: Les désillusions de la méritocratie, alors qu’en 1950 5% d’une classe d’âge obtenait son baccalauréat, 69% de la classe d’âge actuelle l’obtient. Néanmoins, comme l’autrice le souligne, cette démocratisation s’est accompagnée d’une inflation du diplôme, dévalorisant le baccalauréat. 
+A l’heure de cette dévalorisation du baccalauréat - diplôme qui cependant reste important selon Eric Maurin qui dans son ouvrage La peur du déclassement rappelle qu’en 2008, parmi les jeunes sortis de l’école depuis moins de 5 ans, 47% des non-diplômés étaient au chômage contre 7% des diplômés du supérieur (bac +2)-  une question se pose: 
+
+le capital économique des parents joue-t-il encore dans l’obtention du baccalauréat? 
+
+Nous choisissons dans notre étude d’approximer le capital économique par des variables telles que le taux d’activité, ou encore le taux de bénéficiaires du RSA par département. Nous nous intéresserons aux résultats du baccalauréat général, technologique et professionel.
+
+
+
 Parcoursup ? @Gauthier 
 
 Nous avons choisi l'échelle départementale car cette échelle nous permettait d'obtenir le plus juste équilibre possible entre exhaustivité et hétérogéneité.
