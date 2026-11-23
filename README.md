@@ -5,7 +5,7 @@ Sujet : Influence de l'emploi sur les résultats scolaires à l'échelle départ
 
 Les résultats scolaires sont un sujet fréquemment étudié en sociologie, dans la mesure où ils reflètent l'adéquation entre un individu et l'institution de l'Ecole. 
 Ces résultats scolaires sont doublement liés à l'emploi : d'une part, de meilleurs résultats scolaires sont en général corrélés à une plus grande facilité à trouver un emploi et à s'insérer dans le monde professionnel.
-D'autre part, on pourrait envisager que l'accès à l'emploi des parents d'un élève ait un impact sur les résultats scolaires de ce dernier. Il s'agit de considérer par exemple, qu'avoir un parent au chômage ou bénéficiant du RSA, influe sur les résultats d'un enfant. 
+D'autre part, on pourrait envisager que l'accès à l'emploi des parents d'un élève ait un impact sur les résultats scolaires de ce dernier, via la transmission d'un capital culturel et économique (Bourdieu, La reproduction sociale). Il s'agit de considérer par exemple, qu'avoir un parent au chômage ou bénéficiant du RSA, influe sur les résultats d'un enfant. 
 
 Nous décidons ici de laisser de côté la première partie, c'est-à-dire l'impact des résultats scolaires sur l'employabilité pour nous concentrer sur la deuxième partie : l'impact de l'emploi sur les résultats scolaires.
 
