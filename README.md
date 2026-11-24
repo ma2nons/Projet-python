@@ -1,21 +1,6 @@
 Projet Python pour la Data Science
 Autrices et auteur : Margaux Gibault, Manon Neau, Gauthier Viviès (2026).
 
-Sujet : Influence de l'emploi sur les résultats scolaires à l'échelle départementale.
-
-Les résultats scolaires sont un sujet fréquemment étudié en sociologie, dans la mesure où ils reflètent l'adéquation entre un individu et l'institution de l'Ecole. 
-Ces résultats scolaires sont doublement liés à l'emploi : d'une part, de meilleurs résultats scolaires sont en général corrélés à une plus grande facilité à trouver un emploi et à s'insérer dans le monde professionnel.
-D'autre part, on pourrait envisager que l'accès à l'emploi des parents d'un élève ait un impact sur les résultats scolaires de ce dernier, via la transmission d'un capital culturel et économique (Bourdieu, La reproduction sociale). Il s'agit de considérer par exemple, qu'avoir un parent au chômage ou bénéficiant du RSA, influe sur les résultats d'un enfant. 
-
-Nous décidons ici de laisser de côté la première partie, c'est-à-dire l'impact des résultats scolaires sur l'employabilité pour nous concentrer sur la deuxième partie : l'impact de l'emploi sur les résultats scolaires.
-
-Problématique : L'emploi des actifs influe-t-il sur les résultats scolaires des lycéens ?
-
-Ici, nous mesurons les résultats scolaires comme les résultats au baccalauréat général et technologique par lycée. Nous sommes pleinement conscients que ces informations ne reflètent que partiellement le niveau scolaire des élèves, notamment car tout le monde ne passe pas un baccalauréat général ou technologique : une partie des étudiants arrête les études avant cela, et une autre partie s'oriente vers des filières plus techniques : certificat d'aptitude professionnelle (CAP) ou baccalauréat professionnel. 
-Néanmoins, une proportion non négligeable des français passe un baccalauréat technologique ou général, et nous avons été également contraints par la disponibilité des données : nous avons pu trouver des données précises de grande qualité surtout sur cet examen. 
-
-OU INTRO 2 (PROPOSITION)
-
 Sujet: Influence de l’emploi sur les résultats au baccalauréat à l’échelle départementale
 
 Depuis les années 1950 et plus particulièrement depuis les années 1960-1970 avec la sociologie bourdieusienne (Les Héritiers (1964), La Reproduction (1970)), la massification scolaire a posé des questions d’égalité des chances et de démocratisation. Cette démocratisation fut impressionnante, et s’observe notamment à travers les chiffres du baccalauréat: comme le mentionne Marie Duru-Bellat dans son ouvrage L’inflation scolaire: Les désillusions de la méritocratie, alors qu’en 1950 5% d’une classe d’âge obtenait son baccalauréat, 69% de la classe d’âge actuelle l’obtient. Néanmoins, comme l’autrice le souligne, cette démocratisation s’est accompagnée d’une inflation du diplôme, dévalorisant le baccalauréat. 
@@ -23,7 +8,7 @@ A l’heure de cette dévalorisation du baccalauréat - diplôme qui cependant r
 
 le capital économique des parents joue-t-il encore dans l’obtention du baccalauréat? 
 
-Nous choisissons dans notre étude d’approximer le capital économique par des variables telles que le taux d’activité, ou encore le taux de bénéficiaires du RSA par département. Nous nous intéresserons aux résultats du baccalauréat général, technologique et professionel.
+Nous choisissons dans notre étude d’étudier une partie seulement du capital économique, que nous approximerons par des variables telles que le taux d’activité, le taux de bénéficiaires du RSA par département, ou encore le revenu médian des ménages par département. Nous avons conscience que le capital économique est plus vaste que les indicateurs mentionnés ci-dessus. Néanmoins nous faisons le choix de nous restreindre à ces indicateurs car nous voulions nous intéresser plus précisément au capital économique découlant de l'emploi. Concernant les données du baccalauréat, nous nous intéresserons aux résultats du baccalauréat général, technologique et professionel.
 
 
 
