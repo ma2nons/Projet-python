@@ -53,19 +53,6 @@ cd Projet-python
 
 Lire "Téléchargement_données_info" pour plus de précisions sur la manière de télécharger les données si vous souhaitez faire tourner le code. 
 
-Installer les dépendances Python à l’aide de la commande :
-
-!pip install pandas fiona shapely pyproj rtree 
-!pip install contextily
-!pip install geopandas
-!pip install topojson
-!pip install py7zr geopandas openpyxl tqdm s3fs ipywidgets --quiet
-!pip install PyYAML --quiet
-!pip install cartiflette --quiet
-!pip install statsmodels
-
-COMPLETER
-
 Lancement. 
 
 Ouvrir le notebook synthèse.ipynb, qui constitue le rapport analytique principal du projet.

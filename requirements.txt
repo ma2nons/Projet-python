@@ -1,0 +1,10 @@
+cartiflette
+IPython
+contextily
+geopandas
+matplotlib
+numpy
+pandas
+statsmodels
+topojson
+PyYAML
