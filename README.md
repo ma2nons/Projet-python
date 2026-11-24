@@ -44,7 +44,7 @@ Ces données sont issues du site data.gouv.fr
 
 # Reproduction du projet
 Installation. Cloner le projet.
-git clone https://github.com/username/Projet-python.git
+git clone https://github.com/ma2nons/Projet-python
 cd Projet-python
 
 Lire "Téléchargement_données_info" pour plus de précisions sur la manière de télécharger les données si vous souhaitez faire tourner le code. 
