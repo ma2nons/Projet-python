@@ -8,7 +8,7 @@ A l’heure de cette dévalorisation du baccalauréat - diplôme qui cependant r
 
 le capital économique des parents joue-t-il encore dans l’obtention du baccalauréat? 
 
-Nous choisissons dans notre étude d’étudier une partie seulement du capital économique, que nous approximerons par des variables telles que le taux d’activité, le taux de bénéficiaires du RSA par département, ou encore le revenu médian des ménages par département. Nous avons conscience que le capital économique est plus vaste que les indicateurs mentionnés ci-dessus. Néanmoins nous faisons le choix de nous restreindre à ces indicateurs car nous voulions nous intéresser plus précisément au capital économique découlant de l'emploi. Concernant les données du baccalauréat, nous nous intéresserons aux résultats du baccalauréat général, technologique et professionel.
+Nous choisissons dans notre étude d’approximer le capital économique par des variables telles que le taux d’activité, le revenu médian, ou encore le taux de bénéficiaires du RSA par département. Nous nous intéresserons aux résultats du baccalauréat général, technologique et professionel.
 
 
 
@@ -21,7 +21,7 @@ L'échelle académique ou régionale aurait fait disparaitre trop de spécificit
 A contrario, une échelle plus restreinte telle que le bassin de vie ou la commune était compliquée à mettre en place, notamment du fait d'un complexe croisement des bases de données : il est notamment complexe d'établir une correspondance des lycées à des bassin de vie ou des communes. En effet, étant donné qu'un lycée situé dans une ville possède un secteur bien plus large que cette ville et que nous ne disposions pas de données précises sur les cartes scolaires (qui par ailleurs, connaissent de nombreuses dérrogations, du fait de choix d'options, d'internat...), nous ne pouvions pas mettre chaque lycée en parallèle du niveau d'emploi de son bassin ou de ses communes. Nous ne pouvions ainsi, par exemple, pas comparer des espaces ruraux et urbains.
 
 Nous mesurons l'emploi de plusieurs manières : nous nous sommes penchés sur le taux de chômage, sur le nombre de bénéficiaires du RSA, sur le revenu médian, mais également sur la composition de l'emploi d'un département.
-Nous ne disposons malheureusement pas de données liant à l'échelle individuelle le parcours de vie professionnel de parents et les résultats scolaires des enfants. Nous comparons donc l'emploi moyen d'un département et les résultats moyens des lycéens de ce même département.
+Nous ne disposons malheureusement pas de panel de données liant à l'échelle individuelle le parcours de vie professionnel de parents et les résultats scolaires des enfants. Nous comparons donc l'emploi moyen d'un département et les résultats moyens des lycéens de ce même département.
 
 Données
 Nous exploitons des données de trois types :
